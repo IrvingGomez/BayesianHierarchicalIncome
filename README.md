@@ -1,4 +1,4 @@
-# Income, education, and other poverty-related variables: a journey through Bayesian hierarchical models: a journey through Bayesian hierarchical models.
+# Income, education, and other poverty-related variables: a journey through Bayesian hierarchical models.
 
 These are specific codes used in the article:
 
